@@ -1,4 +1,15 @@
 body {
     color: #990000;
-    background-color: #EEDD83;
+    background-color: #F6F0C5;
+}
+a {
+    color: green;
+    text-decoration: none;
+}
+nav > a {
+    padding: 10px;
+    background-color: #660066;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: 1px solid gray;
 }
