@@ -6,6 +6,9 @@ a {
     color: green;
     text-decoration: none;
 }
+nav {
+    float: left;
+}
 nav > a {
     padding: 5px;
     background-color: #660066;
