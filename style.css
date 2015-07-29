@@ -14,4 +14,5 @@ nav > a {
     border: 1px solid gray;
     color: #00FF00;
     border-radius: 3px;
+    display: block;
 }
